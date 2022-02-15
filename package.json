@@ -1,0 +1,9 @@
+{
+    "name": "profile-card",
+    "version": "1.0.0",
+    "license": "MIT",
+    "scripts": {
+        "dev": "live-server --browser=CHROME",
+        "dev:offline": "live-server --browser=CHROME --offline"
+    }
+}
